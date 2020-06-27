@@ -1,5 +1,5 @@
 {
-  "name": "vearutop/php-obscene-censor-rus",
+  "name": "xtodx/php-obscene-censor-rus",
   "type": "library",
   "description": "Класс для фильтрации нецензурных выражений (матов).",
   "keywords": ["censor", "антимат", "цензура", "хуй", "модерация"],
@@ -10,6 +10,11 @@
       "name": "Viacheslav Poturaev",
       "email": "vearutop@gmail.com",
       "homepage": "https://github.com/vearutop"
+    },
+    {
+      "name": "Anton Kovalenko",
+      "email": "tonylovepon@gmail.com",
+      "homepage": "https://github.com/xtodx"
     }
   ],
   "require": {
